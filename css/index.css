@@ -1,3 +1,19 @@
-h1 {
-  color: green;
+@import "./font.css";
+@import "./body.css";
+:root {
+  font-size: 16px;
+  --backgroundBody: #161616;
+  --backgroundWrapper: #333333;
+  --white: #ffffff;
+  --gray10: #b3b3b3;
+  --gray20: #737373;
+  --gray30: #282828;
+  --gray40: #181818;
+  --gray50: #121212;
+  --gray60: #000000;
+  --white20: #f2f2f2;
+  --blue18: #18a0fb;
+  --baseFontFamily: Billabong, system-ui, sans-serif;
+  --title: bold 5rem / normal var(--baseFontFamily);
+  --content: normal 1rem / normal var(--baseFontFamily);
 }
