@@ -1,0 +1,8 @@
+@import "./nav-menu.css";
+
+.wrapper-menu {
+  border-block-start: 1px solid rgba(219, 219, 219, 1);
+  display: flex;
+  justify-content: center;
+  max-inline-size: 100%;
+}

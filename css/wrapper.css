@@ -1,0 +1,9 @@
+@import "./wrapper-menu.css";
+@import "./grid.css";
+
+.wrapper {
+  max-inline-size: 58.4375rem;
+  margin: auto;
+  padding-inline-start: 5px;
+  padding-inline-end: 5px;
+}
